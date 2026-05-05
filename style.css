@@ -91,6 +91,7 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
   animation: slide-back 0.2s forwards;
+  cursor: pointer;
 }
 
 .light #switch button {
